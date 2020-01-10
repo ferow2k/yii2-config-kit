@@ -13,7 +13,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.0",
-        "league/container": "^2.2",
+        "league/container": "^3.0",
         "vlucas/phpdotenv": "^2.4",
         "symfony/console": ">=2.8 <5.0"
     },
